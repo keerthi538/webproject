@@ -1,0 +1,137 @@
+*{
+	font-family: 'Sen', sans-serif;
+}
+nav{
+	background-color: black;
+	color: white;
+}
+
+nav a{
+	color: white;
+}
+
+.main-content{
+	width: 500px;
+	padding: 30px;
+	border:1px solid #E6E6E6;
+	margin-left: 500px;
+	border-radius: 15px;
+	box-shadow: 2px 2px black;
+	font-family: 'Sen', sans-serif;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+	background-color: rgba(2,4,3,0.2);
+
+}
+
+.properties{
+	font-family: 'Sen', sans-serif;
+	text-transform: uppercase;
+  
+}
+
+.sidebar{
+	float: left;
+	padding: 8px;
+	box-shadow: 0px 0px 11px 4px green;
+	width: 400px;
+	font-family: 'Sen', sans-serif;
+	border-radius: 10px;
+}
+
+#horse-facts{
+	width: 300px;
+}
+
+#breed-heights{
+	text-align: center;	
+	align-content: center;
+	font-family: 'Sen', sans-serif;
+	margin-left: 200px;
+	color: red;
+}
+
+#About{
+	margin-left: 200px; 
+}
+
+#About p{
+ width:75%;
+ text-align: left;
+ font-size: 25px;
+ font-family: 'Sen', sans-serif;
+ }
+
+#About h3{
+	width: 25%;
+	box-shadow: 3px 3px 3px pink;
+}
+
+.care{
+	font-family: 'Sen', sans-serif;
+	margin-left: 300px;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+.care h3{
+	margin-left: 300px;
+	color: rgba(2,45,66,0.4);
+}
+
+#intro-care{
+	max-width: 700px;
+    margin-left: 100px;
+}
+
+#intro-care ul li{
+	list-style-type: square;
+
+}
+
+ #intro-care ul li::before {
+  content: "\2022";
+  color: red;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1em;
+}
+
+#care-essentials h3{
+	margin-left: -70px;
+	color: black;
+	font-family: 'Bellota Text', cursive;
+	font-size: 30px;	
+}
+
+.basic{
+	margin-left: -70px;
+	display: flex;
+	font-size: 20px;
+	
+}
+
+.basic p{
+	margin-left:20px;
+	max-width: 350px;
+}
+
+#care-essentials ul li{
+	max-width: 800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
