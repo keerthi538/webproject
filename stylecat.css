@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+    /*background-color: black;*/
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+body{
+	background-color: #453b3b;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+
+nav{
+	background-color: rgba(12,23,12,0.5);
+	color: white;
+	background-image: url('images/nav.jpg');
+}
+
+nav a{
+   color: white;
+}
+
+.theme{
+	width: 100%;
+	height: 300px;
+	background-image: url('images/catbackground.jpg');
+	padding: 20px;
+}
+
+.theme p{
+	max-width: 450px;
+	margin-left: 40px;
+	margin-top: 40px;
+	font-size: 25px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#space{
+	width: 70px;
+}
+
+.health{
+	height: 650px;
+}
+
+#article-container{
+	display: flex;
+	margin-left: 20px;
+	margin-top: 20px;
+	max-width: 60%;
+	font-size: 25px;
+}
+
+#article-container p{
+	max-width: 450px;
+}
+
+#article-container img{
+	border-radius: 3px;
+}
+
+.side-container{
+	width: 450px;
+	float: right;
+	height: 600px;
+	/*background-color: red;*/
+	margin-right: 40px;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+aside img{
+	border-radius: 3px;
+}
+
+.meow{
+	margin-left: 150px;
+	max-width: 80%;
+	background-color: #9b9191;
+	padding: 20px;
+	
+}
+
+.meow img{
+	margin-left:180px;
+	border-radius: 30px;
+}
+
+
+#meow-content{
+	margin-left: 100px;
+	width: 900px;
+	font-size: 25px;
+}
+
+#meow-meaning{
+	width: 1000px;
+	background-color: #6e6a6aba;
+	padding: 20px;
+	margin-left: -20px;
+}
+
+
+.feeding-cats{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	background-color: #383535;
+	
+	margin-left: 70px;
+	font-size: 20px;
+}
+
+#feed-cats-img{
+	border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
