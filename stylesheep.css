@@ -1,0 +1,84 @@
+
+body{
+	background-color: #cceed0;
+}
+
+
+
+nav{
+	background-color: #31bc42;
+	color: white;
+
+}
+nav a{
+	color: white;
+}
+
+
+
+
+
+.head{
+	width: 100%;
+	height: 60vh;
+	background-image: url('images/sheep3.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+#para-head{
+	width: 30%;
+	height: 100%;
+	margin-left: 100px;
+	background-color: rgba(0,200,0,0.2);
+	font-size: 25px;
+	font-weight: 300;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	font-family: 'Wallpoet', cursive;
+	line-height: 30px;
+	letter-spacing: 2px;
+	color: white;
+
+}
+
+
+
+.intro{
+	margin-top: 50px;
+	background-color: red;
+	height: 20vh;
+	font-size: 20px;
+	padding: 20px;
+	font-family: 'Jua', sans-serif;
+    text-align: center;
+    background-color: #bcff89;
+}
+
+
+
+.parts{
+	max-width: 90%;
+    margin-left: 50px;
+    margin-top: 15px;
+    padding: 20px;
+    background-color: #b68787;
+    font size: 20px;
+    display: flex;
+    font-family: 'Jua', sans-serif;
+}
+
+ol li{
+	font-size: 20px;
+}
+
+.hspace{
+	width: 200px;
+}
+
+#images{
+	text-align: center;
+}
